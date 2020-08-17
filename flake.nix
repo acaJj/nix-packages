@@ -1,3 +1,3 @@
 {
-  description = "Jeffrey's personal Nix packages"
+  description = "Jeffrey's personal Nix packages";
 }
